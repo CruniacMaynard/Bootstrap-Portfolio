@@ -4,13 +4,13 @@ body{
   background: url(../images/background.png) repeat center fixed;
 }
 h2{
-  color: #4AAAA5;
+  color: #612C39;
   font-size: 24px;
   font-weight: bold;
   font-family: Times, Times New Roman, serif;
 }
 h3{
-  color: #4AAAA5;
+  color: #612C39;
   font-size: 20px;
   font-weight: bold;
   font-family: Times, Times New Roman, serif;
@@ -22,12 +22,12 @@ html {
 body {
    margin-bottom: 70px;
 }
-.navbar{
+.navbar
   
 }
 .navbar-brand{
   font-size: 24px;
-  color: #4AAAA5;
+  color: #612C39;
   font-family: Times, Times New Roman, serif;
 }
 .about-me img{
